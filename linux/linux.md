@@ -1,5 +1,4 @@
 # linux 
------
 
 - `cat /etc/passwd` user list
 - `usermod -d /home/user1 user1` add user
